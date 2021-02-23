@@ -1,0 +1,41 @@
+* text eol=lf
+
+*.css text
+*.htm text
+*.html text
+*.js text
+*.json text
+*.lock text
+*.md text
+*.php text
+*.pp text
+*.ppk text
+*.rb text
+*.rc text
+*.rsa text
+*.scss text
+*.sh text
+*.txt text
+*.yaml text
+*.yml text
+.conf text
+.config text
+.sh text
+
+*.avi binary
+*.eot binary
+*.gif binary
+*.ico binary
+*.jpg binary
+*.mp3 binary
+*.mp4 binary
+*.ogg binary
+*.otf binary
+*.png binary
+*.svg binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.webp binary
+*.zip binary
+*.pdf binary
