@@ -39,3 +39,5 @@
 *.webp binary
 *.zip binary
 *.pdf binary
+*.psd binary
+*.ai binary
